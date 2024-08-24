@@ -3,29 +3,29 @@ body {
   font-family: 'Times New Roman', Times, serif;
 }
 a {
- color:brown; 
+  color: brown;
 }
 .App-header {
- margin: 30px 0; 
+  margin: 30px 0;
 }
 
 .App {
- max-width: 960px;
-  margin:0 auto;
+  max-width: 960px;
+  margin: 0 auto;
 }
 .App-books {
-max-width: 200px;
-display:block;
-margin:0 auto;
-opacity: 70%;
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
+  opacity: 70%;
 }
 
-.App-footer{
-text-align: center;
-margin:30px 0px;
-font-size: 14px;
+.App-footer {
+  text-align: center;
+  margin: 30px 0px;
+  font-size: 14px;
 }
 
 .App-footer a {
- color:blue; 
+  color: blue;
 }
