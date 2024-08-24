@@ -1,5 +1,5 @@
 import './App.css';
-import books from './books.jpg';
+import books from './books.png';
 import Dictionary from "./Dictionary";
 
 export default function App() {
@@ -10,11 +10,11 @@ export default function App() {
         <img src={books} className='App-books img-fluid' alt='books' />
       </header>
       <main>
-      <Dictionary/>
+      <Dictionary defaultKeyword="mountain"/>
 
 
       </main>
-      <footer className='App-footer'> Coded by Edona Rexhaj</footer>
+      <footer className='App-footer'> Coded by Edona Rexhaj </footer>
       </div>
     </div>
   );
